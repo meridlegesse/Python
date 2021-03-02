@@ -1,1 +1,2 @@
-# Python
+# Multiple choise question sample in pyhton 
+
